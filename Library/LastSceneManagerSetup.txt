@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/c516792/Documents/UniWork/DES105 - Unity Tutorials/des105-platformer/des105_platformer/Assets/mainScene.unity
+  isLoaded: 1
+  isActive: 1
